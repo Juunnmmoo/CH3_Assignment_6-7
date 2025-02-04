@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CH3_Week1_1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\CH3_Week1_1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\Bush.gen.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\CH3_Week1_1.init.gen.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\Item.gen.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\moCharactor.gen.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\moGameMode.gen.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\moPlayerController.gen.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\MovingObstacle.gen.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\RotatingObstacle.gen.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\CH3_Week1_1.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\Bush.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\Item.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\moCharactor.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\moGameMode.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\moPlayerController.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\MovingObstacle.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\RotatingObstacle.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\PerModuleInline.gen.cpp.obj"
+"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\Default.rc2.res"
+/OUT:"C:\Users\Junmo\Documents\Unreal Projects\CH3_Week1_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH3_Week1_1\UnrealEditor-CH3_Week1_1.lib"

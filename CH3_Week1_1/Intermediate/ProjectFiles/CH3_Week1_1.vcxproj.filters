@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CH3_Week1_1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CH3_Week1_1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CH3_Week1_1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CH3_Week1_1">
+      <UniqueIdentifier>{CF58FAE8-16D7-3707-8C67-AAD53AD0849A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CH3_Week1_1\CH3_Week1_1.Build.cs">
+      <Filter>Source\CH3_Week1_1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\CH3_Week1_1.cpp">
+      <Filter>Source\CH3_Week1_1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\CH3_Week1_1.h">
+      <Filter>Source\CH3_Week1_1</Filter>
+    </ClCompile>
+    <Filter Include="Source\CH3_Week1_1\Private">
+      <UniqueIdentifier>{61BB0572-0249-3864-B653-5C8E90D2046B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Private\Bush.cpp">
+      <Filter>Source\CH3_Week1_1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Private\Item.cpp">
+      <Filter>Source\CH3_Week1_1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Private\moCharactor.cpp">
+      <Filter>Source\CH3_Week1_1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Private\moGameMode.cpp">
+      <Filter>Source\CH3_Week1_1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Private\moPlayerController.cpp">
+      <Filter>Source\CH3_Week1_1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Private\MovingObstacle.cpp">
+      <Filter>Source\CH3_Week1_1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Private\RotatingObstacle.cpp">
+      <Filter>Source\CH3_Week1_1\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CH3_Week1_1\Public">
+      <UniqueIdentifier>{50F2960F-2B28-3040-AE7D-7EAC0D553C2F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Public\Bush.h">
+      <Filter>Source\CH3_Week1_1\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Public\Item.h">
+      <Filter>Source\CH3_Week1_1\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Public\moCharactor.h">
+      <Filter>Source\CH3_Week1_1\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Public\moGameMode.h">
+      <Filter>Source\CH3_Week1_1\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Public\moPlayerController.h">
+      <Filter>Source\CH3_Week1_1\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Public\MovingObstacle.h">
+      <Filter>Source\CH3_Week1_1\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CH3_Week1_1\Public\RotatingObstacle.h">
+      <Filter>Source\CH3_Week1_1\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

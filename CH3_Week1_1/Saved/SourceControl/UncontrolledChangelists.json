@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Junmo/Documents/Unreal Projects/CH3_Week1_1/Content/BluePrints/BP_moPlayerController.uasset",
+				"C:/Users/Junmo/Documents/Unreal Projects/CH3_Week1_1/Content/Inputs/IMC_Charactor.uasset",
+				"C:/Users/Junmo/Documents/Unreal Projects/CH3_Week1_1/Content/Maps/MainLevel.umap",
+				"C:/Users/Junmo/Documents/Unreal Projects/CH3_Week1_1/Content/BluePrints/BP_moCharactor.uasset",
+				"C:/Users/Junmo/Documents/Unreal Projects/CH3_Week1_1/Content/BluePrints/BP_moGameMode.uasset"
+			]
+		}
+	]
+}

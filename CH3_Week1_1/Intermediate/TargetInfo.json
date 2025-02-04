@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CH3_Week1_1",
+			"Path": "..\\Source\\CH3_Week1_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CH3_Week1_1Editor",
+			"Path": "..\\Source\\CH3_Week1_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\junmo\\documents\\unreal projects\\ch3_week1_1\\source\\ch3_week1_1\\private\\item.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\junmo\\documents\\unreal projects\\ch3_week1_1\\intermediate\\build\\win64\\x64\\ch3_week1_1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\junmo\\documents\\unreal projects\\ch3_week1_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ch3_week1_1\\definitions.ch3_week1_1.h",
+            "c:\\users\\junmo\\documents\\unreal projects\\ch3_week1_1\\source\\ch3_week1_1\\public\\item.h",
+            "c:\\users\\junmo\\documents\\unreal projects\\ch3_week1_1\\intermediate\\build\\win64\\unrealeditor\\inc\\ch3_week1_1\\uht\\item.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
